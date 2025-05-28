@@ -73,6 +73,6 @@ When I’m not working, I enjoy:
 
 - [LinkedIn](https://www.linkedin.com/in/ivansr/)
 - 📧 ivan.ravecca@gmail.com
-- Check out my old school [GitHub about me section](http://ivan-ravecca.github.io/) 
+- Check out my old school [GitHub about me section](http://ivan-ravecca.github.io?ref=GH) 
 
 Thanks for stopping by! Feel free to explore my repos or reach out if you want to collaborate, share ideas, or just say hello. 😊
