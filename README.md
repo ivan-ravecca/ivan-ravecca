@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile repository – a place where you can learn more about me, my career, passions, and professional journey.
 
+🔭 I’m currently working on UKG as an Engineering Manager, resolving root cause defects, creating tools for observability and reliability of legacy systems.
+
 ## 👨‍💻 About Me
 
-I'm a self-taught software engineer and technical leader with **17+ years of experience** in the IT industry. Over the years, I've transitioned from hands-on development to strategic leadership, always staying grounded in the technical foundations of software development. I'm passionate about building high-performing teams, solving complex problems, and helping others grow professionally.
+I am an IT leader with 18+ years of experience **driving high-performing engineering teams**, scaling technical organizations, and delivering solutions aligned with business strategy. I combine deep technical acumen with strong emotional intelligence, enabling me to build empowered teams and high-trust partnerships.
 
-As a **Technical Director** at Globant, I’ve worked across several industries (fintech, pharma, construction, SaaS), overseeing teams, aligning technical solutions with business goals, and managing the full lifecycle of software delivery in agile environments.
+Over the past several years, I’ve served as an Engineering Manager, Head of Engineering, and Technical Director, leading cross-functional teams, managing complex portfolios, optimizing delivery capacity, and elevating quality standards. I work closely with stakeholders to translate business goals into actionable technical roadmaps while ensuring predictable execution.
+
+With 13+ years of hands-on development expertise—including React, Angular, AWS, and modern UI architecture—I excel at system design, performance optimization, code quality improvements, and implementing scalable engineering practices in agile environments. As a Certified Scrum Master, I bring structure, clarity, and prioritization to sprints, backlogs, and incident management.
+
+I also bring extensive experience in talent development and organizational growth. Over six years in Globant’s Gatekeeping program, I led technical interviews, refined hiring processes, and mentored engineers, while driving onboarding programs, boot camps, and training for emerging talent.
+
+**What I solve**: Scaling engineering teams, modernizing front-end architectures, improving delivery efficiency, aligning tech strategy with business outcomes, and building resilient processes that support long-term growth.
 
 ## 🛠 Tech & Tools I Love
 
@@ -39,6 +47,9 @@ As a **Technical Director** at Globant, I’ve worked across several industries 
 
 ## 🌐 Notable Projects
 
+- **UKG**  
+  Observability project for legacy system, ensure systems are working as normal and detect anomalies.
+  
 - **Autodesk Fusion Manage**  
   Migration from MVC to SPA using Angular, React, and TypeScript. Handled architecture decisions, performance issues, and code quality.
 
